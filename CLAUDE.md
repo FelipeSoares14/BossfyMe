@@ -4,7 +4,7 @@ App de produtividade com um chefe caricato, o **Dr. Alberto**: o usuário assina
 
 ## Comece por aqui
 1. Leia o `VERSOES.md`. Ele lista as versões do site, os links publicados e como criar uma versão nova.
-2. A referência de telas e regras é o **flow web** (29 telas): https://claude.ai/artifact/CJyUcNcvzg6W6ZkucDBQD6
+2. A referência de telas e regras é o **flow web v4**, no Claude Design: https://claude.ai/design/p/55669a8f-3401-4c62-911b-293c5b880d62?file=BOSSFYME+Wireframes+Web+v4.dc.html (cópia local em `v4-flow/`). Os flows v3 (https://claude.ai/artifact/MDk28eGWhuVbpW6wipfT8B) e de 29 telas (https://claude.ai/artifact/CJyUcNcvzg6W6ZkucDBQD6) são histórico.
 3. A pasta `Primeiro flow/` é histórico. Não siga o que está nela, a menos que eu peça.
 
 ## Versões
